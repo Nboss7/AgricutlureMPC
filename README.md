@@ -7,5 +7,5 @@
 ### Quick Start
 
 ```bash
-git clone https://github.com/zboss7/ID-MPC.git
+git clone https://github.com/Nboss7/ID-MPC.git
 ```
